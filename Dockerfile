@@ -8,6 +8,7 @@ MAINTAINER Jeremy Jumeau <jumeau.jeremy@gmail.com>
 
 # Minimal packages
 RUN apk add --no-cache --virtual .persistent-deps \
+	acl \
         bash \
         icu-libs \
         zlib \
