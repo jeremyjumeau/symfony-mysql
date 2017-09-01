@@ -16,6 +16,7 @@ What's included?
     * pdo_mysql
     * sockets
     * zip
+* wkhtmltopdf **0.12.4-dev (with patched qt)**
 
 # Usage
 ## Docker-compose
